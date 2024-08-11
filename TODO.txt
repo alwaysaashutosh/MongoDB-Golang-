@@ -1,0 +1,21 @@
+{
+    {
+
+        "some-key":"some-value",
+        "tag": [40,66] 
+
+    },
+    {
+        "some-key":"some-value",
+        "tag": [45,66] 
+    },
+    {
+        "some-key":"some-value",
+        "tag": [45,49]  
+    }
+   
+}
+
+
+
+// Problem 1 - Write a Query which pick only those document whose all the elements are greater than 40 and less than 50
